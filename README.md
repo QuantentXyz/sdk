@@ -3,7 +3,8 @@
 Building the core infrastructure that powers the agent economy on Solana.  
 Defending identity via Trust on-chain.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : FGNb4mP1VpPQeYukZKzn7kaynH5qFe9bAUxWGQJhpump
+Streamflow LOCK : https://app.streamflow.finance/contract/solana/mainnet/2MCaXirvSoQXnkAhJgbvzcp3Y3DG4Xa55oyUBv2ke663?ref=hungrily-lightened-chickadee
 ---
 
 ## 🌐 Overview
